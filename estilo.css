@@ -1,0 +1,30 @@
+#cabeceraweb {
+    background-color: blue;
+   margin-left: 480px;
+   margin-right: 400px;
+}
+nav {
+    background-color: floralwhite;
+    margin-left: 300px;
+}
+aside {
+    background-color: antiquewhite;
+    float: left;
+    height: 500px;
+}
+footer {
+    background-color: red;
+    clear: both;
+    margin-top: 70px;
+    margin-right: 100px;
+}
+#fondodelparrafo{
+    background-color: salmon;
+    margin-left: 200px;
+    margin-right: 100px;
+    height: 500px;
+}
+li {
+    background-color: #ff0;
+    display: inline;
+}
